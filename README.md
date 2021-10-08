@@ -9,7 +9,7 @@ This project is an implementation of Laravel Authentication Service:
 
 ## Learning Laravel
 
-Here is the [documentation](https://documenter.getpostman.com/view/12161401/UUy7ZiX2) for this project as well as API collection on Postman.
+Here is the [documentation](https://documenter.getpostman.com/view/12161401/UUy7ZiX2) for this project as well as API collection and Use examples on Postman.
 
 
 
